@@ -37,10 +37,6 @@ La primera edición se realizó en 2024 y desde entonces se ha convertido en un 
   <img src="assets/img/equipo-completo.jpg" alt="Equipo AFINLAB completo" width="60%">
   <p><sub>Preparando el Applied Finance Day con dedicación y entusiasmo.</sub></p>
 </div>
-
-> **💡 Consejo para las fotos:**  
-> Sube las imágenes que te compartieron a una carpeta `assets/img/` dentro de este mismo repositorio. Luego reemplaza `assets/img/...` por el nombre exacto de cada archivo. Si prefieres alojarlas en otro lado, simplemente pega la URL completa dentro de `src=""`.
-
 ---
 
 ## 📆 Ediciones
