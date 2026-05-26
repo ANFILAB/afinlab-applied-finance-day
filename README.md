@@ -35,6 +35,7 @@ La primera edición se realizó en 2024 y desde entonces se ha convertido en un 
   <img src="assets/img/equipo-completo.jpg" alt="Equipo AFINLAB completo" width="60%">
   <p><sub>Preparando el Applied Finance Day con dedicación y entusiasmo.</sub></p>
 </div>
+
 ---
 
 ## 📆 Ediciones
