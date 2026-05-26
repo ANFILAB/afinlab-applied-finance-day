@@ -13,8 +13,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Edición_2025-AGOSTO-orange?style=for-the-badge" alt="Edición 2025"></a>
 </p>
 
----
-
 ## 🌿 ¿Qué es el Applied Finance Day?
 
 Es el evento insignia del semillero **AFINLAB**, donde reunimos a estudiantes, profesores y profesionales del sector financiero y agroindustrial. A través de charlas, talleres prácticos y presentaciones de investigación, buscamos **acercar las finanzas modernas al campo peruano** y visibilizar las oportunidades que ofrece la industria agroexportadora.
